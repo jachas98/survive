@@ -1,0 +1,12 @@
+<meta>
+    <info author="Jachas" type="gamemode" name="Survive" />
+
+    <oop>true</oop>
+
+    <script src="login-server.lua" type="server"/>
+    <script src="login-client.lua" type="client"/>
+
+    <script src="player-table.lua"/>
+    <script src="player-server.lua" type="server"/>
+    <script src="player-client.lua" type="client"/>
+</meta>
